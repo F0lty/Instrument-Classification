@@ -8,9 +8,15 @@ The audio used for the training is IRMAS dataset from https://www.upf.edu/web/mt
 
 
 Dependencies:
+
 Python==3.7
+
 Tensorflow==2.4.1
+
 matplotlib==3.2.2
+
 librosa==0.8.0
+
 scipy==1.4.1
+
 numpy==1.19.5
